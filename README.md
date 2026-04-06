@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devamitch-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devamitch)
 [![Medium](https://img.shields.io/badge/Medium-devamitch-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://devamitch.medium.com)
 [![X](https://img.shields.io/badge/X-devamitch-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/devamitch)
-[![Email](https://img.shields.io/badge/Email-amit98ch@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amit98ch@gmail.com)
+[![Email](https://img.shields.io/badge/Email-amit@devamit.co.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amit@devamit.co.in)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91--9874173663-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919874173663)
 
 > *"Before AI could write a line of code, I was building production systems."*
@@ -342,13 +342,13 @@ Now  ──── Building What's Next
   ⚡  Available immediately
   🎯  AI/ML  ·  Web3  ·  Mobile Architecture  ·  0-to-1 builds
 
-  📧  amit98ch@gmail.com
+  📧  amit@devamit.co.in
   📞  +91-9874173663 (WhatsApp available)
   🌐  https://devamit.co.in
 ```
 
 [![Portfolio](https://img.shields.io/badge/devamit.co.in-C9A84C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devamit.co.in)
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amit98ch@gmail.com)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amit@devamit.co.in)
 [![LinkedIn](https://img.shields.io/badge/Lets_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devamitch)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919874173663)
 
