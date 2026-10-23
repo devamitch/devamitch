@@ -27,7 +27,7 @@
 - **Case-study metrics:** sub-16 ms per-frame inference on mid-range phones, 1v1 multiplayer, and sub-2 s time-to-interactive on 4G. These are portfolio-reported results; see the linked case study for context.
 - **Potential fit:** interactive fitness concepts, movement coaching, computer-vision demos, game prototypes and camera-based experiences.
 - **Inspect:** [Source repository](https://github.com/devamitch/aura-arena) · [Live product](https://auraarena.devamit.co.in) · [Case study](https://amitchakraborty.dev/work/aura-arena) · [Latest commit history](https://github.com/devamitch/aura-arena/commits/main)
-- **Transaction status:** commercial conversation welcome; confirm LICENSE/IP position, current build, setup requirements and external service costs before offering reuse or transfer rights.
+- **Transaction status:** commercial conversation welcome; repository metadata did not show a recognized license and no root LICENSE file was found. Do not assume reuse rights. Confirm IP ownership and establish an explicit written license or agreement before reuse or transfer.
 
 ## 2. Aura Studio
 
@@ -36,7 +36,7 @@
 - **What the project README describes:** 45+ typed node types, drag/connect workflow design, multi-model LLM workflows, live per-step execution visibility, and workflow export paths.
 - **Potential fit:** internal AI workflow builders, model orchestration prototypes, RAG frontends and no-code automation tools.
 - **Inspect:** [Frontend source](https://github.com/devamitch/aura-workflow-studio) · [Backend component](https://github.com/devamitch/aura-workflow-studio-backend) · [Live app](https://aurastudio.ai) · [Case study](https://amitchakraborty.dev/work/aura-studio) · [Latest commit history](https://github.com/devamitch/aura-workflow-studio/commits/main)
-- **Transaction status:** commercial conversation welcome; frontend and backend are separate repositories, so packaging and their integration status must be scoped explicitly. Confirm licensing, environment needs, backend dependencies and current build before transfer.
+- **Transaction status:** commercial conversation welcome; frontend and backend are separate repositories. GitHub did not expose a recognized license for the frontend, and no root LICENSE file was found during this check. Do not assume reuse rights. Confirm licensing/IP, environment needs, backend dependencies and current build before transfer.
 
 ## 3. Neev
 
@@ -54,7 +54,7 @@
 - **What the website repository README describes:** Next.js 16 static export, Tailwind CSS v4, structured SEO metadata, sitemap/robots, and Cloudflare Workers Assets deployment.
 - **Potential fit:** product websites, documentation hubs and small marketing sites deployed to Cloudflare's edge.
 - **Inspect:** [Website source](https://github.com/devamitch/blinkquest-site) · [Live site](https://blinkquest.devamit.co.in) · [Worker deployment](https://blinkquest-site.amit98ch.workers.dev)
-- **License note:** the repository README states MIT. Verify the actual LICENSE file and all included third-party assets/dependencies before redistributing. Treat an MIT-licensed codebase as non-exclusive; a paid engagement may cover customization, deployment or support rather than exclusive ownership of the same public code.
+- **License note:** the repository README says “MIT”, but GitHub's repository metadata did not identify a recognized license, and no root `LICENSE`, `LICENSE.md` or `LICENSE.txt` file was found during this check. Treat the license as **unverified** and do not redistribute or reuse it commercially until the owner confirms and supplies the applicable license. If it is intended to be MIT-licensed, add the actual license file and resolve third-party assets/dependencies. An MIT grant would be non-exclusive; paid work could cover customization, deployment or support rather than exclusive ownership of the same public code.
 
 ## What I can deliver in an agreed engagement
 
