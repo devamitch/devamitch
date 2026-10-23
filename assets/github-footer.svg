@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" role="img" aria-labelledby="title">
+  <title id="title">Build deliberately. Ship responsibly.</title>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0B0E14"/><stop offset="1" stop-color="#171A23"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A88243"/><stop offset="0.5" stop-color="#F0D9A2"/><stop offset="1" stop-color="#A88243"/></linearGradient></defs>
+  <rect width="1200" height="100" rx="12" fill="url(#bg)"/><path d="M40 26H1160" stroke="url(#accent)" stroke-opacity="0.7"/>
+  <text x="600" y="61" text-anchor="middle" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="17" letter-spacing="2.8" fill="#E6D3A5">BUILD DELIBERATELY. SHIP RESPONSIBLY.</text>
+</svg>
