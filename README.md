@@ -1,359 +1,179 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=130&section=header&text=Amit%20Chakraborty&fontSize=40&fontColor=fff&fontAlignY=40&desc=Principal%20Architect%20%E2%80%A2%20Founding%20Engineer%20%E2%80%A2%200-to-1%20Builder&descSize=15&descColor=ffffffcc&descAlignY=62)
-
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&repeat=true&width=600&height=35&lines=8+Years+%C2%B7+18%2B+Apps+%C2%B7+50K%2B+Users+%C2%B7+15%2B+Zero-to-One+Builds;React+Native+%7C+AI%2FML+%7C+Web3+%7C+HealthTech+%7C+FinTech;I+architect+systems+that+outlast+the+hype.)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-devamit.co.in-C9A84C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devamit.co.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-devamitch-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devamitch)
-[![Medium](https://img.shields.io/badge/Medium-devamitch-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://devamitch.medium.com)
-[![X](https://img.shields.io/badge/X-devamitch-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/devamitch)
-[![Email](https://img.shields.io/badge/Email-amit@devamit.co.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amit@devamit.co.in)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91--9874173663-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919874173663)
-
-> *"Before AI could write a line of code, I was building production systems."*
-
----
-
-## 🧬 Who Am I
-
-I'm a **Principal Architect & Founding Engineer** from Kolkata, India — building production systems since 2017. I don't just write code. I build **entire technical universes from nothing** — game engines, AI pipelines, computer vision systems, blockchain architectures, and the teams that run them.
-
-My work spans **HealthTech · FinTech · Web3 · GovTech · Gaming** — and every system I've architected has shipped to production.
-
-```typescript
-const amit = {
-  location:   "Kolkata, India",
-  timezone:   "IST (UTC+5:30) | Most productive: 2-11 PM",
-  available:  "Open for high-impact remote roles & collaborations",
-  experience: "8+ years in production",
-  shipped:    "18+ apps | 50K+ users | 15+ zero-to-one builds",
-
-  currently: {
-    building:  "SaaS products & developer tools",
-    learning:  ["Rust", "Anchor Framework", "Solana on-chain programs"],
-    writing:   "Technical articles on Medium",
-    mentoring: "Junior to Senior engineers",
-  },
-
-  superpower: "Raw vision to scalable production reality, from absolute zero.",
-};
-```
-
----
-
-## ⚡ By The Numbers
-
-| Metric | Value |
-|:---|:---|
-| **Years in Production** | 8+ |
-| **Apps Shipped** | 18+ across iOS, Android, Web & Desktop |
-| **Users Served** | 50,000+ across live platforms |
-| **Largest Team Led** | 21 engineers — recruited & trained from scratch |
-| **0-to-1 Builds** | 15+ complete systems from absolute zero |
-| **Sectors** | HealthTech · FinTech · Web3 · GovTech · Gaming |
-| **Gov Projects Secured** | 13+ enterprise-grade |
-| **Open Source Repos** | 55+ |
-
----
-
-## 🏗️ What I've Built
-
-### 🏥 Synapsis Medical Technologies — Founding Engineer
-**Principal Mobile Architect** · Edmonton, Canada (Remote) · Jan 2025 – Feb 2026
-
-Built the **entire technical foundation from zero** for a HealthTech AI startup.
-
-| Deliverable | Details |
-|:---|:---|
-| 🎮 **Game Engine** | React Native + C++/Swift/Kotlin bridgeless, zero external deps. LLM task generation + XP progression. |
-| 🤖 **Aura AI** | Custom AI assistant for clinical workflows, patient engagement & automated triage. |
-| 🧠 **RAG Pipelines** | HIPAA-compliant medical data retrieval — 99.9% uptime. |
-| 👁️ **Computer Vision** | MediaPipe real-time retina analysis & luminance tracking on consumer hardware. |
-| 👥 **21-Person Team** | Recruited, trained & onboarded from scratch. CI/CD + 150+ pages of architecture docs. |
-| ✅ **Outcome** | 5 production apps. Initial funding secured. Clean handoff completed. |
-
-`React Native` `Next.js` `NestJS` `C++` `Swift` `Kotlin` `AWS` `Docker` `Kubernetes` `PostgreSQL` `TensorFlow` `MediaPipe` `Pinecone` `Electron` `Redis` `Supabase`
-
----
-
-### 🌐 NonceBlox Pvt. Ltd. — 3+ Years
-**Lead Mobile Architect & Senior Full-Stack Engineer** · Dubai (Remote) · Oct 2021 – Jan 2025
-
-Led technical ownership across **13+ production apps** in FinTech, Web3, and Gaming.
-
-<details>
-<summary><b>🎮 Vulcan Eleven — Fantasy Sports · 50K Active Users</b></summary>
-
-60fps React Native with C++ native modules, Razorpay + Binance Pay dual payments, real-time leaderboards.
-
-`React Native` `C++ Modules` `Reanimated 3` `Razorpay` `Binance Pay` `Node.js` `PostgreSQL`
-
-[![App Store](https://img.shields.io/badge/App_Store-iOS-000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/ua/app/vulcan-eleven/id6462420052)
-[![Play Store](https://img.shields.io/badge/Play_Store-Android-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.vulcaneleven)
-
-</details>
-
-<details>
-<summary><b>🏠 Housezy — PropTech Platform</b></summary>
-
-Subscription housing app — GraphQL APIs, Socket.io real-time, PayU + Google Pay, PostGIS geospatial search.
-
-`Expo` `GraphQL` `Socket.io` `PostGIS` `PayU` `Google Pay`
-
-[![App Store](https://img.shields.io/badge/App_Store-iOS-000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/housezy/id6471949955)
-[![Play Store](https://img.shields.io/badge/Play_Store-Android-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.nonceblox.housezy)
-
-</details>
-
-<details>
-<summary><b>🎵 MusicX — Web3 Music Competition</b></summary>
-
-Blockchain royalty distribution, C++ native modules for 60fps, Spotify + Twitter API integration, NFT rewards.
-
-`React Native` `C++ Modules` `Solidity` `Spotify API` `Twitter API`
-
-[![App Store](https://img.shields.io/badge/App_Store-iOS-000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/music-x/id6475713772)
-
-</details>
-
-<details>
-<summary><b>⛓️ DeFi11 — Fully On-Chain Fantasy Sports</b></summary>
-
-100% on-chain Ethereum prize pools, NFT marketplace, zero-trust fully decentralized architecture.
-
-`Solidity` `Ethereum` `Web3.js` `React Native` `NFT Marketplace`
-
-[![App Store](https://img.shields.io/badge/App_Store-iOS-000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/defi11-fantasy-sports-app/id1608967244)
-
-</details>
-
-<details>
-<summary><b>🐋 Memr — Web3 Whale Tracker</b></summary>
-
-Real-time on-chain whale movement tracking, Next.js 15, Wagmi/Viem, WalletConnect AppKit, PayPal + Fiat.
-
-`Next.js 15` `Wagmi` `Viem` `WalletConnect` `PayPal`
-
-</details>
-
-<details>
-<summary><b>📱 More Shipped Apps</b></summary>
-
-| App | Description | Links |
-|:---|:---|:---|
-| **Be4You** | Dating MVP — WebRTC video, Socket.io chat, PostGIS geo. *Client got seed funding in 90 days.* | Private |
-| **WeFoU** | Proximity social network with live maps & real-time feeds | Private |
-| **CryptoCoffeeTales** | Blockchain news + IPFS storage | [![Android](https://img.shields.io/badge/Android-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.nonceblox.cryptocoffetales) |
-| **JCare** | Community donation platform | [![Android](https://img.shields.io/badge/Android-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.nonceblox.jitendrafoundationapp) |
-| **Bingo** | Offline merchant billing + Bluetooth tethering | [![Android](https://img.shields.io/badge/Android-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.nonceblox.bingo) |
-| **HRMS** | Desktop employee management — Electron + live monitoring | Internal |
-
-</details>
-
----
-
-### 🏛️ TechProMind & WebSkitters — Foundation Years
-**Senior Full-Stack Engineer** · Kolkata, India · May 2017 – Oct 2021
-
-- 🔒 Secured **13+ government projects** — enterprise SQL injection/XSS hardening
-- 🏗️ Built **GST Ecosystem from scratch** — PHP portal + VB.NET desktop + Java/Kotlin Android app
-- ⚡ Legacy PHP to Angular/REST migration — **40% efficiency improvement**
-- 🗄️ Oracle/MySQL data pipelines for government-scale processing
-
----
-
-## 🛠️ Technical Arsenal
-
-**📱 Mobile**
-
-![React Native](https://img.shields.io/badge/React_Native-Expert-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B_Modules-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-
-**🧠 AI / ML**
-
-![LLM](https://img.shields.io/badge/LLM-OpenAI%20Claude%20Gemini-412991?style=flat-square&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-Computer_Vision-4285F4?style=flat-square&logo=google&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-99.9%25_Uptime-34D399?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-C084FC?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-Vector_DB-000?style=flat-square)
-
-**⛓️ Web3 / Blockchain**
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-Learning-000?style=flat-square&logo=rust&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
-![Wagmi](https://img.shields.io/badge/Wagmi%20Viem-333?style=flat-square)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
-
-**⚙️ Backend**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333?style=flat-square)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-**🎨 Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js_15-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-
-**🗄️ Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**☁️ Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**💳 Payments**
-
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square)
-![Binance Pay](https://img.shields.io/badge/Binance_Pay-F0B90B?style=flat-square&logo=binance&logoColor=black)
-![PayPal](https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devamitch&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=C9A84C&icon_color=C9A84C&text_color=E6EDF3&ring_color=C9A84C)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devamitch&theme=dark&hide_border=true&background=0D1117&ring=C9A84C&fire=F5C842&currStreakLabel=C9A84C)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devamitch&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C9A84C&text_color=E6EDF3&langs_count=10)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devamitch&theme=github-dark&hide_border=true&bg_color=0D1117&color=C9A84C&line=F5C842&point=ffffff&area=true)
-
----
-
-## ✍️ Latest Articles
-
-- 🧙‍♂️ [Say Goodbye to Git Woes: Become a Git Wizard Today!](https://devamitch.medium.com/say-goodbye-to-git-woes-become-a-git-wizard-today-c6f6e7c10b7a)
-- 🪄 [Let's Build Your First Electron App: The Magical Feed App!](https://devamitch.medium.com/lets-build-your-first-electron-app-the-magical-feed-app-7d8e9f2a1b3c)
-- 🦀 [From TypeScript to Rust & Go — Day 3: Mastering Functions](https://devamitch.medium.com/from-typescript-to-rust-go-day-3-mastering-functions-and-error-handling-c2d1e4f5a6b7)
-- 📱 [Expo vs. Bare React Native: Which Should You Use and When?](https://devamitch.medium.com/expo-vs-bare-react-native-which-should-you-use-and-when-f2b3c4d5e6f7)
-- 🔷 [Understanding Type vs. Interface in TypeScript](https://devamitch.medium.com/understanding-type-vs-interface-in-typescript-a-guide-for-junior-developers-a1b2c3d4e5f6)
-
----
-
-## 📜 What People Say
-
-> *"I had the pleasure of working with Amit for three years and witnessed his impressive growth from Front-End Developer to Front-End Lead. His expertise and dedication make him a valuable asset to any team."*
->
-> **— [Kartik Kalia](https://linkedin.com/in/kartikkalia/)** · Full Stack Developer · AWS · NonceBlox *(Direct Manager)*
-
-> *"Amit had been an amicable and diligent developer — one of the most dependable Engineers when it comes to delivery or urgent closures. His capability to rebuild any project from scratch is remarkable."*
->
-> **— [Neha Goel](https://linkedin.com/in/neha-goel/)** · HR Professional · 15+ Years · NonceBlox
-
-> *"Amit played a pivotal role in mentoring me, sharing his profound knowledge of Redux, React Native, and frontend concepts. His enthusiasm for coding and pursuit for perfection are truly inspiring."*
->
-> **— [Varun Chodha](https://linkedin.com/in/varun-chodha/)** · Senior Full-Stack · MERN · NonceBlox
-
----
-
-## 🗺️ The Journey
-
-```
-2017 ──── PHP Developer
-           13 government projects secured & shipped.
-           GST portals, Android apps, retailer software — all from scratch.
-
-2019 ──── MCA & Upskilling
-           Master's in Computer Applications. 8.61 CGPA.
-           React, React Native, Web3 — all running in parallel.
-
-2021 ──── Web3 & Blockchain
-           Joined NonceBlox Dubai. Solidity, DeFi, NFTs.
-           DeFi11 — fully decentralized fantasy sports on Ethereum.
-
-2023 ──── Lead Mobile Architect
-           MusicX · Housezy · Vulcan Eleven.
-           C++ Native Modules · Razorpay + Binance Pay · 50K+ users.
-
-2025 ──── AI + HealthTech Founding Engineer
-           Proprietary game engine from scratch. HIPAA RAG pipelines.
-           Aura AI · Computer Vision · 21-person team · Funding secured.
-
-Now  ──── Building What's Next
-           Open for the right mission. Also building my own products.
-           The title matters less than the impact.
-```
-
----
-
-## 🎓 Education & Certifications
-
-| Degree | Institution | Score | Year |
-|:---|:---|:---|:---|
-| **MCA** — Master of Computer Applications | Techno Main Salt Lake, Kolkata | **8.61 CGPA** | 2018–2021 |
-| **BCA** — Bachelor of Computer Applications | The Heritage Academy, Kolkata | **7.3 DGPA** | 2014–2017 |
-
-![Blockchain](https://img.shields.io/badge/Blockchain_Dev-Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps_CI%2FCD_Docker_K8s-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana_Blockchain-Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white)
-![DeFi](https://img.shields.io/badge/DeFi_Development-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-React%20Java%20Python-00EA64?style=flat-square&logo=hackerrank&logoColor=white)
-![Hackathon](https://img.shields.io/badge/Cognizant_Hackathon_2021-Quarterfinalist-C9A84C?style=flat-square)
-
----
-
-## 💡 Services
-
-| Service | Description | Pricing |
-|:---|:---|:---|
-| 🎯 **Pitch Your Idea** | Feasibility · MVP scope · Architecture blueprint | Free discovery call |
-| 🔍 **Consulting** | Code audits · Team advisory · 1:1 Mentorship | From $150/hr |
-| 🚀 **End-to-End Build** | Full 0-to-1 build with team + post-launch support | Fixed scope |
-
----
-
-## 🤝 Open for Collaboration
-
-| | What I Bring |
-|:---:|:---|
-| 🚀 | **0-to-1 Execution** — 15+ products from concept to production. I know what breaks and what ships. |
-| 🏗️ | **Architecture That Scales** — Game engines, HIPAA AI pipelines, on-chain contracts — built for reality. |
-| 👥 | **Team Building** — I recruit, mentor, and build engineering cultures from scratch. Not just code. |
-| 🧠 | **Founder Mindset** — I treat every product like my own company. Full ownership, full accountability. |
-
-```
-  💼  Contract  ·  Full-Time  ·  Fractional CTO
-  🌍  Remote Worldwide  ·  IST timezone  ·  Flexible overlap
-  ⚡  Available immediately
-  🎯  AI/ML  ·  Web3  ·  Mobile Architecture  ·  0-to-1 builds
-
-  📧  amit@devamit.co.in
-  📞  +91-9874173663 (WhatsApp available)
-  🌐  https://devamit.co.in
-```
-
-[![Portfolio](https://img.shields.io/badge/devamit.co.in-C9A84C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devamit.co.in)
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amit@devamit.co.in)
-[![LinkedIn](https://img.shields.io/badge/Lets_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devamitch)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919874173663)
-
-**If you're building something ambitious and need someone who won't quit until it ships — let's talk.**
-
-![Profile Views](https://komarev.com/ghpvc/?username=devamitch&color=C9A84C&style=flat-square&label=Profile+Views)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=100&section=footer&text=Built+with+conviction.+Shipped+with+pride.&fontSize=13&fontColor=ffffffcc&fontAlignY=70)
+<div align="center">
+  <img src="./assets/github-hero.svg" width="100%" alt="Amit Chakraborty — Lead Architect and Senior Full-Stack Engineer" />
+</div>
+
+<div align="center">
+  <a href="https://devamit.co.in"><img src="https://img.shields.io/badge/PORTFOLIO-devamit.co.in-D6B36B?style=flat-square&labelColor=171A23" alt="Portfolio" /></a>
+  <a href="https://amitchakraborty.dev"><img src="https://img.shields.io/badge/CASE_STUDIES-selected_work-D6B36B?style=flat-square&labelColor=171A23" alt="Case studies" /></a>
+  <a href="https://linkedin.com/in/devamitch"><img src="https://img.shields.io/badge/LINKEDIN-connect-0A66C2?style=flat-square&labelColor=171A23" alt="LinkedIn" /></a>
+  <a href="https://devamitch.medium.com"><img src="https://img.shields.io/badge/WRITING-Medium-FFFFFF?style=flat-square&labelColor=171A23" alt="Writing" /></a>
+  <a href="mailto:amit@devamit.co.in"><img src="https://img.shields.io/badge/CONTACT-email-D6B36B?style=flat-square&labelColor=171A23" alt="Email" /></a>
+</div>
+
+<p align="center"><em>I turn complex product ideas into systems that perform, scale, and survive production.</em></p>
+
+## About
+
+I’m a Kolkata-based **Lead Architect and Senior Full-Stack Engineer** with 8+ years of production experience across mobile, web, HealthTech, FinTech, GovTech, gaming, AI-enabled products, and Web3.
+
+I work across the full product lifecycle: architecture, mobile performance, native modules, backend systems, data design, AI/LLM workflows, computer vision, release engineering, and production reliability. I enjoy taking ambiguous ideas from first technical decisions to a maintainable product in users’ hands.
+
+| **8+ years** | **23+ apps & platforms** | **50K peak DAU** | **Teams up to 21** |
+|:---:|:---:|:---:|:---:|
+| Production engineering | Mobile, web & desktop | Vulcan Eleven | Built and led at Synapsis |
+
+## Selected work
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3><a href="https://amitchakraborty.dev/work/aura-arena">Aura Arena</a></h3>
+      <p><strong>On-device computer vision · 2026</strong></p>
+      <p>Turns a live camera feed into competitive movement gameplay. MediaPipe and WebGPU keep pose, hand, and face inference on-device; Supabase Realtime carries match state.</p>
+      <sub>MediaPipe · WebGPU · PWA · Supabase Realtime · Gemini</sub><br/>
+      <a href="https://auraarena.devamit.co.in">Live product</a> · <a href="https://amitchakraborty.dev/work/aura-arena">Case study</a>
+    </td>
+    <td valign="top" width="50%">
+      <h3><a href="https://amitchakraborty.dev/work/kshem">KSHEM</a></h3>
+      <p><strong>Land intelligence & governance</strong></p>
+      <p>A spatial-data and workflow platform for land records, boundary analysis, document review, and role-scoped stakeholder processes.</p>
+      <sub>Next.js · PostGIS · GeoJSON · Claude AI · GIS</sub><br/>
+      <a href="https://kshem.devamit.co.in">Live product</a> · <a href="https://amitchakraborty.dev/work/kshem">Case study</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3><a href="https://amitchakraborty.dev/work/aura-studio">Aura Studio</a></h3>
+      <p><strong>Visual AI orchestration</strong></p>
+      <p>A node-based canvas for composing AI workflows, validating connections, routing across models, and observing executions.</p>
+      <sub>React Flow · Next.js · Zustand · Gemini API</sub><br/>
+      <a href="https://aurastudio.devamit.co.in">Live product</a> · <a href="https://amitchakraborty.dev/work/aura-studio">Case study</a>
+    </td>
+    <td valign="top" width="50%">
+      <h3><a href="https://amitchakraborty.dev/work/harmony-bloom">HarmonyBloom</a></h3>
+      <p><strong>Privacy-first AI wellness</strong></p>
+      <p>A Telegram Mini App for habit progression and AI-guided reflection, with client-side encryption and offline-first persistence.</p>
+      <sub>Telegram Mini App · Dexie · Framer Motion · Gemini · AES-GCM</sub><br/>
+      <a href="https://harmonybloom.devamit.co.in">Live product</a> · <a href="https://amitchakraborty.dev/work/harmony-bloom">Case study</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3><a href="https://amitchakraborty.dev/work/neev">Neev</a></h3>
+      <p><strong>Private family operating system</strong></p>
+      <p>A household-scoped platform with guardian roles, elder oversight, child-safe access boundaries, and context-aware AI suggestions.</p>
+      <sub>Next.js · TypeScript · Firebase · AI</sub><br/>
+      <a href="https://neev.devamit.co.in">Live product</a> · <a href="https://amitchakraborty.dev/work/neev">Case study</a>
+    </td>
+    <td valign="top" width="50%">
+      <h3><a href="https://amitchakraborty.dev/work/vulcan-eleven">Vulcan Eleven</a></h3>
+      <p><strong>Fantasy sports · 50K peak DAU</strong></p>
+      <p>Performance-focused React Native engineering, native C++/JSI work, responsive leaderboards, and fiat/crypto payment integrations.</p>
+      <sub>React Native · C++ · Reanimated · PostgreSQL · Razorpay · Binance Pay</sub><br/>
+      <a href="https://apps.apple.com/ua/app/vulcan-eleven/id6462420052">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.vulcaneleven">Google Play</a> · <a href="https://amitchakraborty.dev/work/vulcan-eleven">Case study</a>
+    </td>
+  </tr>
+</table>
+
+## Project catalogue
+
+### Independent products & tools
+
+| Project | Focus | Public link |
+|:--|:--|:--|
+| **Aura Arena** | On-device movement intelligence and competitive gameplay | [Live](https://auraarena.devamit.co.in) · [Case study](https://amitchakraborty.dev/work/aura-arena) |
+| **KSHEM** | Land intelligence, GIS, document analysis, governance | [Live](https://kshem.devamit.co.in) · [Case study](https://amitchakraborty.dev/work/kshem) |
+| **Aura Studio** | Visual AI workflow builder | [Live](https://aurastudio.devamit.co.in) · [Case study](https://amitchakraborty.dev/work/aura-studio) |
+| **HarmonyBloom** | Privacy-first wellness Telegram Mini App | [Live](https://harmonybloom.devamit.co.in) · [Case study](https://amitchakraborty.dev/work/harmony-bloom) |
+| **Neev** | Private family OS and household-scoped access | [Live](https://neev.devamit.co.in) · [Case study](https://amitchakraborty.dev/work/neev) |
+| **Setu** | Android-first local-first nearby sharing and content discovery | [Project site](https://setu.devamit.co.in) |
+| **BlinkQuest** | Gamified mindful eye breaks and wellness companion | Android closed testing |
+| **Interview Prep** | Timed coding drills, system design, AI-assisted interview loops | [Open tool](https://amitchakraborty.dev/prep) |
+| **Project Scope** | Product and engineering project-scoping workspace | [Open tool](https://projectscopes.devamit.co.in) |
+
+### HealthTech & AI — Synapsis Medical Technologies
+
+Contributed to the technical foundation of a HealthTech AI startup and five production apps. Client-specific details are kept high-level where work is proprietary.
+
+- **Game engine:** React Native with native C++/Swift/Kotlin work, task generation, and progression systems.
+- **Aura AI:** AI-assisted clinical workflows, patient engagement, and triage experiences.
+- **RAG pipelines:** Retrieval-backed medical workflows; portfolio material reports 99.9% uptime.
+- **Computer vision:** MediaPipe-based real-time vision and luminance analysis on consumer hardware.
+- **Engineering delivery:** Team growth from 0 to 21, CI/CD, architecture documentation, cloud infrastructure, and cross-platform delivery.
+
+### FinTech, Web3, consumer & gaming — NonceBlox
+
+| Project | Focus | Public reference |
+|:--|:--|:--|
+| **Vulcan Eleven** | Fantasy sports, mobile performance, fiat + crypto payments | [Case study](https://amitchakraborty.dev/work/vulcan-eleven) · [iOS](https://apps.apple.com/ua/app/vulcan-eleven/id6462420052) · [Android](https://play.google.com/store/apps/details?id=com.vulcaneleven) |
+| **Housezy** | PropTech, subscription housing, geospatial search, real-time APIs | [iOS](https://apps.apple.com/us/app/housezy/id6471949955) · [Android](https://play.google.com/store/apps/details?id=com.nonceblox.housezy) |
+| **MusicX** | Web3 music competition, royalty distribution, NFT rewards | [iOS](https://apps.apple.com/us/app/music-x/id6475713772) |
+| **DeFi11** | On-chain fantasy sports and NFT marketplace | [iOS](https://apps.apple.com/app/defi11-fantasy-sports-app/id1608967244) |
+| **Memr** | Web3 whale activity tracking and wallet-connected frontend | Product/source not publicly linked |
+| **BlockBet** | Web3 prediction-market experience | Product/source not publicly linked |
+| **Be4You** | Dating MVP, WebRTC video, real-time chat, geospatial discovery | Private client work |
+| **WeFoU** | Proximity social network, maps, real-time feeds | Private client work |
+| **CryptoCoffeeTales** | Blockchain news and IPFS-backed content | [Google Play](https://play.google.com/store/apps/details?id=com.nonceblox.cryptocoffetales) |
+| **JCare** | Community donations and foundation support | [Google Play](https://play.google.com/store/apps/details?id=com.nonceblox.jitendrafoundationapp) |
+| **Bingo** | Offline merchant billing and Bluetooth tethering | [Google Play](https://play.google.com/store/apps/details?id=com.nonceblox.bingo) |
+| **HRMS** | Electron desktop employee management and operational monitoring | Internal product |
+| **Food Shala** | Consumer mobile product | Product/source not publicly linked |
+
+### GovTech & enterprise — TechProMind / WebSkitters
+
+- **GST ecosystem:** Connected PHP portal, VB.NET desktop tooling, and Java/Kotlin Android application.
+- **Government portals and workflows:** Delivery and security hardening across 13+ government projects.
+- **Retailer software:** Desktop and operational workflows built from the ground up.
+- **Legacy modernization:** PHP-to-Angular/REST migration and Oracle/MySQL data pipelines.
+
+## Engineering toolkit
+
+<table>
+  <tr>
+    <td valign="top" width="50%"><strong>Mobile & performance</strong><br/>React Native · Expo · TypeScript · Reanimated · C++ JSI / TurboModules · Kotlin · Swift · Android release engineering</td>
+    <td valign="top" width="50%"><strong>AI & computer vision</strong><br/>LLM APIs · RAG · prompt/evaluation workflows · MediaPipe · WebGPU · TensorFlow.js · vector search</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Web & backend</strong><br/>React · Next.js · Node.js · NestJS · GraphQL · REST · WebSockets · WebRTC · React Flow</td>
+    <td valign="top"><strong>Data & infrastructure</strong><br/>PostgreSQL · PostGIS · MongoDB · Redis · Firebase · Supabase · AWS · Docker · Kubernetes · GitHub Actions</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Web3</strong><br/>Solidity · Ethereum · EVM dApps · WalletConnect · Wagmi · Viem · IPFS</td>
+    <td valign="top"><strong>Payments & realtime</strong><br/>Razorpay · Binance Pay · PayU · Google Pay · Socket.io · Supabase Realtime</td>
+  </tr>
+</table>
+
+## Engineering principles
+
+- **Measure the constraint first.** Frame budgets, latency, release time, and failure modes are product requirements.
+- **Keep sensitive data scoped.** Privacy and authorization belong in system boundaries, not just UI states.
+- **Design for operations.** CI/CD, crash reporting, release verification, rollback paths, and maintainable handoffs matter as much as the demo.
+- **Prefer clear systems over fashionable complexity.** Choose the simplest architecture that meets real constraints and can be operated by the team.
+
+## GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devamitch&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D6B36B&icon_color=D6B36B&text_color=C7CFDA&rank_icon=github" alt="GitHub account statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devamitch&layout=compact&hide_border=true&bg_color=0D1117&title_color=D6B36B&text_color=C7CFDA&langs_count=8" alt="Top languages from public repositories" />
+</div>
+
+<sub>Cards are rendered by a third-party service and may occasionally be unavailable. Language statistics describe public repository contents, not engineering proficiency.</sub>
+
+## Education
+
+- **MCA — Master of Computer Applications**, Techno Main Salt Lake, Kolkata · 2018–2021 · 8.61 CGPA
+- **BCA — Bachelor of Computer Applications**, The Heritage Academy, Kolkata · 2014–2017 · 7.3 DGPA
+
+## Let’s connect
+
+I’m interested in thoughtful teams and products where architecture, execution, and long-term ownership matter. Open to remote-first engineering roles and focused collaborations across mobile, AI-enabled systems, and full-stack product development.
+
+- **Portfolio:** [devamit.co.in](https://devamit.co.in)
+- **Project case studies:** [amitchakraborty.dev](https://amitchakraborty.dev)
+- **LinkedIn:** [linkedin.com/in/devamitch](https://linkedin.com/in/devamitch)
+- **Writing:** [devamitch.medium.com](https://devamitch.medium.com)
+- **Email:** [amit@devamit.co.in](mailto:amit@devamit.co.in)
+
+<div align="center">
+  <img src="./assets/github-footer.svg" width="100%" alt="Build deliberately. Ship responsibly." />
+</div>
