@@ -1,26 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="286" viewBox="0 0 1200 286" role="img" aria-labelledby="title desc">
-  <title id="title">Codebases you can evaluate, adapt and extend</title>
-  <desc id="desc">A premium dark portfolio banner about codebase licensing, white-label customization, source acquisition discussions, and engineering delivery.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="304" viewBox="0 0 1200 304" role="img" aria-labelledby="title desc">
+  <title id="title">Amit Dev Labs — Codebase buyer studio</title>
+  <desc id="desc">Premium product studio banner for codebase evaluation, licensing, white-label delivery and source acquisition discussions.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0E14"/><stop offset=".58" stop-color="#151A25"/><stop offset="1" stop-color="#211D22"/></linearGradient>
-    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9B7740"/><stop offset=".5" stop-color="#F1D9A3"/><stop offset="1" stop-color="#C69B58"/></linearGradient>
-    <radialGradient id="glow" cx="78%" cy="48%" r="65%"><stop offset="0" stop-color="#D6B36B" stop-opacity=".19"/><stop offset="1" stop-color="#D6B36B" stop-opacity="0"/></radialGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090C12"/><stop offset=".6" stop-color="#151B27"/><stop offset="1" stop-color="#201C22"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A98245"/><stop offset=".5" stop-color="#F4DDA8"/><stop offset="1" stop-color="#C39A58"/></linearGradient>
+    <radialGradient id="glow" cx="80%" cy="44%" r="64%"><stop offset="0" stop-color="#D6B36B" stop-opacity=".22"/><stop offset="1" stop-color="#D6B36B" stop-opacity="0"/></radialGradient>
     <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#D6B36B" stroke-opacity=".055"/></pattern>
   </defs>
-  <rect width="1200" height="286" rx="20" fill="url(#bg)"/><rect width="1200" height="286" rx="20" fill="url(#grid)"/><rect width="1200" height="286" rx="20" fill="url(#glow)"/>
-  <path d="M48 40H82" stroke="url(#gold)" stroke-width="3" stroke-linecap="round"/>
-  <text x="48" y="74" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="12" font-weight="650" letter-spacing="3.5" fill="#D6B36B">CODEBASES / PRODUCT SYSTEMS / DELIVERY</text>
-  <text x="46" y="126" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="35" font-weight="760" letter-spacing="-1" fill="#F4F1E9">Start with a working foundation.</text>
-  <text x="49" y="160" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="17" fill="#BAC4D0">Evaluate the code. Understand the rights. Choose the right handoff.</text>
-  <g transform="translate(49 199)"><rect width="146" height="33" rx="16.5" fill="#D6B36B" fill-opacity=".13" stroke="#D6B36B" stroke-opacity=".55"/><text x="73" y="21" text-anchor="middle" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="11" letter-spacing="1.3" font-weight="650" fill="#E8D4AB">LICENSE</text><rect x="157" width="160" height="33" rx="16.5" fill="#8BA8D8" fill-opacity=".10" stroke="#8BA8D8" stroke-opacity=".48"/><text x="237" y="21" text-anchor="middle" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="11" letter-spacing="1.3" font-weight="650" fill="#BDCCE4">WHITE-LABEL</text><rect x="328" width="164" height="33" rx="16.5" fill="#D6B36B" fill-opacity=".08" stroke="#D6B36B" stroke-opacity=".38"/><text x="410" y="21" text-anchor="middle" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="11" letter-spacing="1.3" font-weight="650" fill="#D6B36B">SOURCE REVIEW</text></g>
-  <g transform="translate(736 43)" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M22 68H107V18H186M107 68V123H197M186 18V81H250M197 123V181H117M22 68V175H65" stroke="#D6B36B" stroke-opacity=".67" stroke-width="1.7"/>
-    <path d="M250 81V138H300M300 138V190H250" stroke="#8BA8D8" stroke-opacity=".66" stroke-width="1.6"/>
-    <g fill="#161D29" stroke="#D6B36B" stroke-width="1.5"><rect x="0" y="47" width="45" height="42" rx="8"/><rect x="82" y="47" width="50" height="42" rx="8"/><rect x="164" y="0" width="55" height="37" rx="8"/><rect x="164" y="102" width="65" height="42" rx="8"/><rect x="86" y="160" width="64" height="39" rx="8"/></g>
-    <g fill="#17202B" stroke="#8BA8D8" stroke-width="1.5"><rect x="225" y="61" width="52" height="41" rx="8"/><rect x="274" y="170" width="58" height="40" rx="8"/></g>
-    <g stroke="#E7D5AF" stroke-opacity=".68" stroke-width="2"><path d="M10 61H34M10 69H27M93 60H121M93 68H115M175 12H208M175 20H199M176 115H216M176 124H204M98 172H137M98 180H128M237 73H265M237 82H258M286 182H320M286 191H310"/></g>
-    <g fill="url(#gold)" stroke="none"><circle cx="107" cy="68" r="4"/><circle cx="186" cy="18" r="4"/><circle cx="197" cy="123" r="4"/><circle cx="250" cy="81" r="4"/><circle cx="117" cy="181" r="4"/></g>
+  <rect width="1200" height="304" rx="22" fill="url(#bg)"/><rect width="1200" height="304" rx="22" fill="url(#grid)"/><rect width="1200" height="304" rx="22" fill="url(#glow)"/>
+  <path d="M48 36H84" stroke="url(#gold)" stroke-width="3" stroke-linecap="round"/>
+  <text x="48" y="69" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="11" font-weight="650" letter-spacing="3.2" fill="#D6B36B">AMIT DEV LABS  /  CODEBASE STUDIO</text>
+  <text x="46" y="119" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="34" font-weight="770" letter-spacing="-1.1" fill="#F4F1E9">Don’t start from zero.</text>
+  <text x="49" y="151" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="17" fill="#BCC5D3">Inspect the foundation. Choose the rights. Ship the next version.</text>
+  <g transform="translate(49 184)"><rect width="139" height="34" rx="17" fill="#D6B36B" fill-opacity=".12" stroke="#D6B36B" stroke-opacity=".55"/><text x="69.5" y="22" text-anchor="middle" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="10" font-weight="700" letter-spacing="1.2" fill="#F0D9A2">LICENSE / REUSE</text><rect x="149" width="151" height="34" rx="17" fill="#8BA8D8" fill-opacity=".10" stroke="#8BA8D8" stroke-opacity=".48"/><text x="224.5" y="22" text-anchor="middle" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="10" font-weight="700" letter-spacing="1.2" fill="#C2D0E5">WHITE-LABEL</text><rect x="311" width="163" height="34" rx="17" fill="#D6B36B" fill-opacity=".08" stroke="#D6B36B" stroke-opacity=".38"/><text x="392.5" y="22" text-anchor="middle" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="10" font-weight="700" letter-spacing="1.2" fill="#D6B36B">ACQUISITION REVIEW</text></g>
+  <text x="49" y="259" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="11" letter-spacing="1.9" fill="#8793A5">SOURCE REVIEW · TECHNICAL DUE DILIGENCE · DEPLOYMENT · HANDOFF</text>
+  <g transform="translate(715 41)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M22 54H104V17H173M104 54V111H178M173 17V70H238M178 111V173H115M22 54V164H59M238 70V124H286M286 124V174H241" stroke="#D6B36B" stroke-opacity=".66" stroke-width="1.6"/>
+    <g fill="#151D29" stroke="#D6B36B" stroke-width="1.4"><rect x="0" y="34" width="44" height="40" rx="8"/><rect x="81" y="35" width="48" height="39" rx="8"/><rect x="152" y="0" width="43" height="35" rx="8"/><rect x="153" y="95" width="51" height="37" rx="8"/><rect x="91" y="151" width="48" height="34" rx="8"/></g>
+    <g fill="#151D29" stroke="#8BA8D8" stroke-width="1.4"><rect x="216" y="51" width="48" height="38" rx="8"/><rect x="263" y="106" width="45" height="36" rx="8"/><rect x="222" y="157" width="48" height="35" rx="8"/></g>
+    <g stroke="#E5D5B5" stroke-opacity=".75" stroke-width="2"><path d="M9 45H34M9 53H29M91 45H119M91 53H111M160 10H187M160 18H180M162 105H194M162 113H184M101 160H130M101 168H122M225 62H255M225 70H247M272 117H299M272 125H292M231 166H260M231 174H251"/></g>
+    <circle cx="104" cy="54" r="4" fill="url(#gold)" stroke="none"/><circle cx="173" cy="17" r="4" fill="url(#gold)" stroke="none"/><circle cx="178" cy="111" r="4" fill="url(#gold)" stroke="none"/><circle cx="238" cy="70" r="4" fill="url(#gold)" stroke="none"/>
   </g>
-  <path d="M42 258H1158" stroke="url(#gold)" stroke-opacity=".25"/>
-  <text x="49" y="274" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="10" letter-spacing="2.2" fill="#7F8A9B">CLEAR SCOPE · VERIFIED RIGHTS · PRACTICAL HANDOFF</text>
+  <path d="M42 280H1158" stroke="url(#gold)" stroke-opacity=".25"/>
+  <text x="49" y="294" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="9" letter-spacing="2.1" fill="#677386">CLEAR SCOPE  ·  VERIFIED RIGHTS  ·  PRACTICAL HANDOFF</text>
 </svg>
