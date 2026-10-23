@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="./assets/github-hero.svg" width="100%" alt="Amit Chakraborty — Lead Architect and Senior Full-Stack Engineer" />
+  <img src="https://raw.githubusercontent.com/devamitch/devamitch/main/assets/github-hero.svg" width="100%" alt="Amit Chakraborty — Lead Architect and Senior Full-Stack Engineer" />
 </div>
 
 <div align="center">
-  <a href="https://amitchakraborty.dev"><img src="https://img.shields.io/badge/PORTFOLIO-Case%20studies-D6B36B?style=flat-square&labelColor=10141D" alt="Portfolio"/></a>
-  <a href="https://devamit.co.in"><img src="https://img.shields.io/badge/ENGINEERING-devamit.co.in-C7D0DD?style=flat-square&labelColor=10141D" alt="Engineering site"/></a>
-  <a href="https://github.com/devamitch?tab=repositories"><img src="https://img.shields.io/badge/SOURCE-98%20public%20repos-D6B36B?style=flat-square&labelColor=10141D" alt="Public repositories"/></a>
-  <a href="https://linkedin.com/in/devamitch"><img src="https://img.shields.io/badge/LINKEDIN-connect-8BA8D8?style=flat-square&labelColor=10141D" alt="LinkedIn"/></a>
-  <a href="mailto:amit@devamit.co.in"><img src="https://img.shields.io/badge/COMMERCIAL-INQUIRIES-D6B36B?style=flat-square&labelColor=10141D" alt="Commercial enquiries"/></a>
+  <a href="https://amitchakraborty.dev"><strong>↗ PORTFOLIO</strong></a> &nbsp;·&nbsp;
+  <a href="https://devamit.co.in"><strong>ENGINEERING SITE ↗</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/devamitch?tab=repositories"><strong>139 REPOSITORIES ↗</strong></a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/devamitch"><strong>LINKEDIN ↗</strong></a> &nbsp;·&nbsp;
+  <a href="mailto:amit@devamit.co.in?subject=Amit%20Dev%20Labs%20enquiry"><strong>COMMERCIAL ENQUIRIES ↗</strong></a>
 </div>
 
 <p align="center">
@@ -48,7 +48,7 @@ I’m **Amit Chakraborty** — Lead Architect and Senior Full-Stack Engineer beh
 <table>
   <tr>
     <td valign="top" width="50%">
-      <a href="https://amitchakraborty.dev/work/aura-arena"><img src="./assets/projects/aura-arena.svg" width="100%" alt="Aura Arena project cover"/></a>
+      <a href="https://amitchakraborty.dev/work/aura-arena"><img src="https://raw.githubusercontent.com/devamitch/devamitch/main/assets/projects/aura-arena.svg" width="100%" alt="Aura Arena project cover"/></a>
       <h3><a href="https://amitchakraborty.dev/work/aura-arena">Aura Arena</a></h3>
       <p><strong>Computer vision · Realtime gameplay</strong></p>
       <table>
@@ -58,11 +58,10 @@ I’m **Amit Chakraborty** — Lead Architect and Senior Full-Stack Engineer beh
       </table>
       <sub>React · TypeScript · MediaPipe · WebGPU · Supabase Realtime</sub><br/>
       <a href="https://github.com/devamitch/aura-arena">Source</a> · <a href="https://auraarena.devamit.co.in">Live product</a> · <a href="https://amitchakraborty.dev/work/aura-arena">Case study & measurements</a><br/>
-      <img src="https://img.shields.io/github/last-commit/devamitch/aura-arena?style=flat-square&label=last%20commit&color=D6B36B&labelColor=10141D" alt="Aura Arena latest commit"/>
-      <img src="https://img.shields.io/github/languages/top/devamitch/aura-arena?style=flat-square&label=primary%20language&color=8BA8D8&labelColor=10141D" alt="Aura Arena top language"/>
+      <sub>Inspect source · <a href="https://github.com/devamitch/aura-arena/commits/main">commit history</a> · <a href="https://github.com/devamitch/aura-arena">repository metadata</a></sub>
     </td>
     <td valign="top" width="50%">
-      <a href="https://amitchakraborty.dev/work/aura-studio"><img src="./assets/projects/aura-studio.svg" width="100%" alt="Aura Studio project cover"/></a>
+      <a href="https://amitchakraborty.dev/work/aura-studio"><img src="https://raw.githubusercontent.com/devamitch/devamitch/main/assets/projects/aura-studio.svg" width="100%" alt="Aura Studio project cover"/></a>
       <h3><a href="https://amitchakraborty.dev/work/aura-studio">Aura Studio</a></h3>
       <p><strong>Visual AI workflow orchestration</strong></p>
       <table>
@@ -72,13 +71,12 @@ I’m **Amit Chakraborty** — Lead Architect and Senior Full-Stack Engineer beh
       </table>
       <sub>React · TypeScript · React Flow · Zustand · Gemini API</sub><br/>
       <a href="https://github.com/devamitch/aura-workflow-studio">Frontend source</a> · <a href="https://github.com/devamitch/aura-workflow-studio-backend">Backend component</a> · <a href="https://aurastudio.ai">Live app</a> · <a href="https://amitchakraborty.dev/work/aura-studio">Case study</a><br/>
-      <img src="https://img.shields.io/github/last-commit/devamitch/aura-workflow-studio?style=flat-square&label=last%20commit&color=D6B36B&labelColor=10141D" alt="Aura Studio latest commit"/>
-      <img src="https://img.shields.io/github/languages/top/devamitch/aura-workflow-studio?style=flat-square&label=primary%20language&color=8BA8D8&labelColor=10141D" alt="Aura Studio top language"/>
+      <sub>Inspect source · <a href="https://github.com/devamitch/aura-workflow-studio/commits/main">commit history</a> · <a href="https://github.com/devamitch/aura-workflow-studio">repository metadata</a></sub>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <a href="https://amitchakraborty.dev/work/kshem"><img src="./assets/projects/kshem.svg" width="100%" alt="KSHEM project cover"/></a>
+      <a href="https://amitchakraborty.dev/work/kshem"><img src="https://raw.githubusercontent.com/devamitch/devamitch/main/assets/projects/kshem.svg" width="100%" alt="KSHEM project cover"/></a>
       <h3><a href="https://amitchakraborty.dev/work/kshem">KSHEM</a></h3>
       <p><strong>Land intelligence · Governance workflows</strong></p>
       <table>
@@ -90,7 +88,7 @@ I’m **Amit Chakraborty** — Lead Architect and Senior Full-Stack Engineer beh
       <a href="https://kshem.devamit.co.in">Live preview</a> · <a href="https://amitchakraborty.dev/work/kshem">Case study & architecture</a>
     </td>
     <td valign="top" width="50%">
-      <a href="https://amitchakraborty.dev/work/vulcan-eleven"><img src="./assets/projects/vulcan-eleven.svg" width="100%" alt="Vulcan Eleven project cover"/></a>
+      <a href="https://amitchakraborty.dev/work/vulcan-eleven"><img src="https://raw.githubusercontent.com/devamitch/devamitch/main/assets/projects/vulcan-eleven.svg" width="100%" alt="Vulcan Eleven project cover"/></a>
       <h3><a href="https://amitchakraborty.dev/work/vulcan-eleven">Vulcan Eleven</a></h3>
       <p><strong>Fantasy sports · Performance engineering</strong></p>
       <table>
@@ -104,7 +102,7 @@ I’m **Amit Chakraborty** — Lead Architect and Senior Full-Stack Engineer beh
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <a href="https://amitchakraborty.dev/work/harmony-bloom"><img src="./assets/projects/harmony-bloom.svg" width="100%" alt="HarmonyBloom project cover"/></a>
+      <a href="https://amitchakraborty.dev/work/harmony-bloom"><img src="https://raw.githubusercontent.com/devamitch/devamitch/main/assets/projects/harmony-bloom.svg" width="100%" alt="HarmonyBloom project cover"/></a>
       <h3><a href="https://amitchakraborty.dev/work/harmony-bloom">HarmonyBloom</a></h3>
       <p><strong>Privacy-first wellness · Telegram Mini App</strong></p>
       <p>Client-side AES-256-GCM encryption, Dexie local persistence and an AI coach designed to work with decrypted state in memory. See the case study for the architecture and privacy boundaries.</p>
@@ -112,13 +110,31 @@ I’m **Amit Chakraborty** — Lead Architect and Senior Full-Stack Engineer beh
       <a href="https://harmonybloom.devamit.co.in">Product</a> · <a href="https://amitchakraborty.dev/work/harmony-bloom">Case study</a>
     </td>
     <td valign="top" width="50%">
-      <a href="https://amitchakraborty.dev/work/neev"><img src="./assets/projects/neev.svg" width="100%" alt="Neev project cover"/></a>
+      <a href="https://amitchakraborty.dev/work/neev"><img src="https://raw.githubusercontent.com/devamitch/devamitch/main/assets/projects/neev.svg" width="100%" alt="Neev project cover"/></a>
       <h3><a href="https://amitchakraborty.dev/work/neev">Neev</a></h3>
       <p><strong>Private family operating system</strong></p>
       <p>Household-scoped spaces, guardian hierarchy, elder oversight and child-safe access boundaries backed by Firebase rules. Designed around family coordination, not attention-maximizing feeds.</p>
       <sub>React Native · Expo · TypeScript · Zustand · Firebase</sub><br/>
       <a href="https://neev.devamit.co.in">Product site</a> · <a href="https://github.com/devamitch/neev">Repository</a> · <a href="https://amitchakraborty.dev/work/neev">Case study</a><br/>
-      <img src="https://img.shields.io/github/last-commit/devamitch/neev?style=flat-square&label=last%20commit&color=D6B36B&labelColor=10141D" alt="Neev latest commit"/>
+      <sub><a href="https://github.com/devamitch/neev/commits/main">Inspect commit history</a> · <a href="https://github.com/devamitch/neev">Repository metadata</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://setu.devamit.co.in"><img src="https://raw.githubusercontent.com/devamitch/devamitch/main/assets/projects/setu.svg" width="100%" alt="Setu project cover"/></a>
+      <h3><a href="https://setu.devamit.co.in">07 / Setu</a></h3>
+      <p><strong>Local-first sharing · Android</strong></p>
+      <p>An Android-first cooperative content network exploring nearby sharing, media organization, native device capabilities, and graceful offline behavior.</p>
+      <sub>React Native · Expo · Kotlin · SQLite · Native modules</sub><br/><br/>
+      <a href="https://setu.devamit.co.in">Product</a> · <a href="https://dev.to/techamit95ch/building-setu-a-local-first-sharing-experience-for-android-looking-for-early-testers-1inl">Build notes</a>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://blinkquest.devamit.co.in"><img src="https://raw.githubusercontent.com/devamitch/devamitch/main/assets/projects/blinkquest.svg" width="100%" alt="BlinkQuest project cover"/></a>
+      <h3><a href="https://blinkquest.devamit.co.in">08 / BlinkQuest</a></h3>
+      <p><strong>Digital wellness · Android</strong></p>
+      <p>A gamified mindful-break experience with calm visual design and progressive challenges.</p>
+      <sub>React Native · Expo · Reanimated · Android</sub><br/><br/>
+      <a href="https://blinkquest.devamit.co.in">Product</a> · <a href="https://github.com/devamitch/blinkquest-site">Website source</a>
     </td>
   </tr>
 </table>
@@ -130,7 +146,7 @@ I’m **Amit Chakraborty** — Lead Architect and Senior Full-Stack Engineer beh
 ## Codebases & commercial options
 
 <div align="center">
-  <img src="./assets/codebase-market.svg" width="100%" alt="Amit Dev Labs — Codebase licensing, white-label customization, source review and engineering delivery"/>
+  <img src="https://raw.githubusercontent.com/devamitch/devamitch/main/assets/codebase-market.svg" width="100%" alt="Amit Dev Labs — Codebase licensing, white-label customization, source review and engineering delivery"/>
 </div>
 
 **Interested in buying, licensing, white-labelling, or extending a codebase?** Start with the codebase catalogue below. Each repository has its own maturity, dependencies, and license status; I confirm those details before quoting or promising rights.
@@ -210,8 +226,7 @@ I’m **Amit Chakraborty** — Lead Architect and Senior Full-Stack Engineer beh
 
 **No invented revenue, download counts, “production-ready” guarantee, or made-up repository prices.** Commercial terms depend on the codebase, current IP/license position, scope, and support requirements.
 
-<a href="CODEBASE-CATALOG.md"><img src="https://img.shields.io/badge/OPEN-CODEBASE%20BUYER%20GUIDE-D6B36B?style=for-the-badge&labelColor=10141D" alt="Open the codebase buyer guide"/></a>
-<a href="mailto:amit@devamit.co.in?subject=Codebase%20licensing%20or%20purchase%20enquiry&body=Repository%20or%20product%3A%0AIntended%20use%3A%0AOption%3A%20license%20%2F%20white-label%20%2F%20source%20acquisition%20%2F%20custom%20build%20%2F%20technical%20review%0ABudget%20range%3A%0ATimeline%3A%0ADeployment%20or%20support%20needed%3A%0A"><img src="https://img.shields.io/badge/REQUEST-A%20CODEBASE%20QUOTE-8BA8D8?style=for-the-badge&labelColor=10141D" alt="Request a codebase quote"/></a>
+<p align="center"><strong><a href="CODEBASE-CATALOG.md">OPEN THE CODEBASE BUYER GUIDE ↗</a></strong> &nbsp;·&nbsp; <strong><a href="mailto:amit@devamit.co.in?subject=Codebase%20licensing%20or%20purchase%20enquiry&body=Repository%20or%20product%3A%0AIntended%20use%3A%0AOption%3A%20license%20%2F%20white-label%20%2F%20source%20acquisition%20%2F%20custom%20build%20%2F%20technical%20review%0ABudget%20range%3A%0ATimeline%3A%0ADeployment%20or%20support%20needed%3A%0A">REQUEST A CODEBASE QUOTE ↗</a></strong></p>
 
 ---
 
@@ -352,25 +367,17 @@ A useful starting point for source review. Repository maturity varies: these inc
   </tr>
 </table>
 
-<a href="DEV-LABS-COLLECTION.md"><img src="https://img.shields.io/badge/OPEN-19%20PROJECT%20DEV%20LABS-D6B36B?style=for-the-badge&labelColor=10141D" alt="Open the 19 project Dev Labs collection"/></a>
-<a href="mailto:amit@devamit.co.in?subject=Amit%20Dev%20Labs%20repository%20enquiry"><img src="https://img.shields.io/badge/ASK-ABOUT%20A%20CODEBASE-8BA8D8?style=for-the-badge&labelColor=10141D" alt="Ask about a codebase"/></a>
+<p align="center"><strong><a href="DEV-LABS-COLLECTION.md">EXPLORE THE 19-PROJECT DEV LABS COLLECTION ↗</a></strong> &nbsp;·&nbsp; <strong><a href="mailto:amit@devamit.co.in?subject=Amit%20Dev%20Labs%20repository%20enquiry">ASK ABOUT A CODEBASE ↗</a></strong></p>
 
 ## Engineering toolkit
 
-<table>
-  <tr>
-    <td valign="top" width="50%"><h3>Mobile & native</h3><img src="https://skillicons.dev/icons?i=react,ts,androidstudio,kotlin,swift,cpp,expo" alt="React, TypeScript, Android Studio, Kotlin, Swift, C++, Expo"/><p>React Native · Expo · JSI / TurboModules · Reanimated · Kotlin · Swift · C++</p></td>
-    <td valign="top" width="50%"><h3>Web & product UI</h3><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,figma" alt="React, Next.js, Tailwind, Vite, Redux, Figma"/><p>React · Next.js · TypeScript · Tailwind CSS · React Flow · Zustand</p></td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%"><h3>AI & computer vision</h3><img src="https://skillicons.dev/icons?i=python,tensorflow" alt="Python and TensorFlow"/><p>LLM APIs · RAG · routing/evaluation workflows · MediaPipe · WebGPU · vector search</p></td>
-    <td valign="top" width="50%"><h3>Backend & data</h3><img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql,postgres,mongodb,redis,firebase,supabase" alt="Node, NestJS, GraphQL, PostgreSQL, MongoDB, Redis, Firebase, Supabase"/><p>Node.js · NestJS · REST · GraphQL · PostgreSQL · PostGIS · MongoDB · Redis</p></td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%"><h3>Cloud & delivery</h3><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,cloudflare" alt="AWS, GCP, Docker, Kubernetes, GitHub Actions, Cloudflare"/><p>CI/CD · release engineering · crash reporting · deployment and handoff</p></td>
-    <td valign="top" width="50%"><h3>Web3 & payments</h3><img src="https://skillicons.dev/icons?i=solidity,rust,ethereum" alt="Solidity, Rust, Ethereum"/><p>Solidity · Ethereum · WalletConnect · Wagmi · Viem · IPFS · Razorpay · Binance Pay · PayU</p></td>
-  </tr>
-</table>
+This visual is hosted in this repository and contains no externally-loaded icons.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devamitch/devamitch/main/assets/engineering-toolkit.svg" width="100%" alt="Amit Dev Labs engineering toolkit across mobile, web, AI, backend and data, cloud, and Web3"/>
+</div>
+
+**Core stack:** React Native · Expo · TypeScript · Next.js · NestJS · PostgreSQL · PostGIS · MongoDB · Redis · Firebase · Supabase · AWS · Docker · GitHub Actions · C++/JSI · Kotlin · Swift · LLM/RAG · MediaPipe · WebGPU · Solidity.
 
 ## Engineering principles
 
@@ -379,16 +386,19 @@ A useful starting point for source review. Repository maturity varies: these inc
 - **Design for operations.** CI/CD, observability, rollback paths, dependencies and operating cost belong in the architecture.
 - **Make handoff part of the product.** Setup instructions, license clarity and a list of known gaps make code easier to trust and extend.
 
-## GitHub activity
+## GitHub activity & real profile data
+
+The visual below is stored inside this repository. It does not call third-party statistics renderers.
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devamitch&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D6B36B&icon_color=D6B36B&text_color=C7CFDA&rank_icon=github" alt="GitHub statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devamitch&layout=compact&hide_border=true&bg_color=0D1117&title_color=D6B36B&text_color=C7CFDA&langs_count=8" alt="Top languages in public repositories"/>
+  <img src="https://raw.githubusercontent.com/devamitch/devamitch/main/assets/github-snapshot.svg" width="100%" alt="Dated profile snapshot: 3,386 contributions in the last year, 139 repositories, 19 Dev Labs repositories and 948 private contributions in October 1–23, 2026"/>
 </div>
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=devamitch&bg_color=0D1117&color=D6B36B&line=9CAAC0&point=F5F3EE&area=true&hide_border=true" alt="GitHub contribution activity"/>
-</div>
-<sub>Third-party stats cards can occasionally be unavailable. Language charts describe public repository contents, not proficiency or commercial readiness.</sub>
+
+- <a href="https://github.com/devamitch">Open the live GitHub profile</a>
+- <a href="https://github.com/devamitch?tab=repositories">Browse repositories</a>
+- <a href="https://github.com/devamitch?tab=overview">See contribution activity</a>
+
+<sub>The graphic uses the profile snapshot supplied on 24 October 2026. These are dated figures, not live API data. GitHub labels 3,386 as contributions, not lifetime commits.</sub>
 
 ## Writing & notes
 
@@ -413,14 +423,14 @@ A useful starting point for source review. Repository maturity varies: these inc
 
 **I don’t list made-up purchase prices.** Codebase value depends on ownership/IP, license, completeness, dependency costs, buyer rights, customizations, and support. I’ll quote after confirming which source and rights can actually be offered.
 
-<a href="mailto:amit@devamit.co.in?subject=Amit%20Dev%20Labs%20commercial%20enquiry&body=Repository%20or%20product%3A%0AOption%3A%20license%20review%20%2F%20white-label%20%2F%20acquisition%20discussion%20%2F%20technical%20audit%20%2F%20custom%20build%0AIntended%20use%3A%0ABudget%3A%0ATimeline%3A%0ASupport%20needed%3A%0A"><img src="https://img.shields.io/badge/START-A%20COMMERCIAL%20CONVERSATION-D6B36B?style=for-the-badge&labelColor=10141D" alt="Start a commercial conversation"/></a>
+<p align="center"><strong><a href="mailto:amit@devamit.co.in?subject=Amit%20Dev%20Labs%20commercial%20enquiry&body=Repository%20or%20product%3A%0AOption%3A%20license%20review%20%2F%20white-label%20%2F%20acquisition%20discussion%20%2F%20technical%20audit%20%2F%20custom%20build%0AIntended%20use%3A%0ABudget%3A%0ATimeline%3A%0ASupport%20needed%3A%0A">START A COMMERCIAL CONVERSATION ↗</a></strong></p>
 
 ## Contact & next steps
 
 <div align="center">
-  <a href="mailto:amit@devamit.co.in?subject=Codebase%20licensing%20or%20purchase%20enquiry"><img src="https://img.shields.io/badge/BUY%20OR%20LICENSE-A%20CODEBASE-D6B36B?style=for-the-badge&labelColor=10141D" alt="Buy or license a codebase"/></a>
-  <a href="mailto:amit@devamit.co.in?subject=White-label%20or%20custom%20product%20build"><img src="https://img.shields.io/badge/BUILD-WHITE%20LABEL%20OR%20CUSTOM-8BA8D8?style=for-the-badge&labelColor=10141D" alt="White-label or custom build"/></a>
-  <a href="mailto:amit@devamit.co.in?subject=Architecture%20review%20or%20delivery%20sprint"><img src="https://img.shields.io/badge/REVIEW-ARCHITECTURE%20OR%20DELIVERY-C7D0DD?style=for-the-badge&labelColor=10141D" alt="Architecture review or delivery"/></a>
+  <strong><a href="mailto:amit@devamit.co.in?subject=Codebase%20licensing%20or%20purchase%20enquiry">BUY / LICENSE A CODEBASE ↗</a></strong> &nbsp;·&nbsp;
+  <strong><a href="mailto:amit@devamit.co.in?subject=White-label%20or%20custom%20product%20build">WHITE-LABEL / CUSTOM BUILD ↗</a></strong> &nbsp;·&nbsp;
+  <strong><a href="mailto:amit@devamit.co.in?subject=Architecture%20review%20or%20delivery%20sprint">ARCHITECTURE REVIEW ↗</a></strong>
 </div>
 
 To get a useful quote, include the **repository/product**, intended use, preferred option (license, white-label, source acquisition, deployment, audit, or custom build), budget range, timeline and support requirements. I’ll confirm current scope and licensing before promising a transfer or exclusive rights.
@@ -431,5 +441,5 @@ To get a useful quote, include the **repository/product**, intended use, preferr
 - **Codebase buyer guide:** [CODEBASE-CATALOG.md](CODEBASE-CATALOG.md)
 
 <div align="center">
-  <img src="./assets/github-footer.svg" width="100%" alt="Build deliberately. Ship responsibly."/>
+  <img src="https://raw.githubusercontent.com/devamitch/devamitch/main/assets/github-footer.svg" width="100%" alt="Build deliberately. Ship responsibly."/>
 </div>
