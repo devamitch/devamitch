@@ -4,6 +4,9 @@
 
 **Owner / contact:** Amit Chakraborty · [amit@devamit.co.in](mailto:amit@devamit.co.in?subject=Codebase%20catalogue%20enquiry) · [Portfolio](https://amitchakraborty.dev)
 
+**Amit Dev Labs:** [browse the 19-repository collection](DEV-LABS-COLLECTION.md) for additional health/diagnostics modules, wellness projects, and engineering foundations. The collection describes the role of each repo conservatively; readiness and reuse rights still need to be checked repo by repo.
+
+
 ## How to work with a codebase
 
 | Option | Best for | What gets agreed before payment |
@@ -78,6 +81,13 @@ I do **not** represent these items as already completed for every project. They 
 - Fractional Principal — $4,900 per month, three-month minimum.
 
 Check the live service page for current terms before contracting. Scope, pricing and availability can change.
+
+### Digital products currently listed as pre-orders
+
+- **React Native Architecture Playbook — $49** · pre-order
+- **Production RAG Starter Kit — $79** · pre-order
+
+These are digital-product listings, not immediately available downloads or prices for source-code ownership. Check the [current public offer page](https://amitchakraborty.dev/ai-llm-app-developer) for live status, deliverables and terms.
 
 ## Request a quote
 
