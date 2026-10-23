@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-labelledby="title desc">
+  <title id="title">KSHEM — project visual</title><desc id="desc">Spatial data. Clear decisions.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111914"/><stop offset="1" stop-color="#0B0D12"/></linearGradient><radialGradient id="glow" cx="76%" cy="48%" r="65%"><stop offset="0" stop-color="#C6A86A" stop-opacity=".18"/><stop offset="1" stop-color="#C6A86A" stop-opacity="0"/></radialGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#A7C4A0" stroke-opacity=".05"/></pattern></defs>
+  <rect width="960" height="340" rx="22" fill="url(#bg)"/><rect width="960" height="340" rx="22" fill="url(#grid)"/><rect width="960" height="340" rx="22" fill="url(#glow)"/>
+  <path d="M42 44H79" stroke="#C6A86A" stroke-width="3" stroke-linecap="round"/>
+  <text x="42" y="75" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="13" font-weight="600" letter-spacing="3.1" fill="#A7C4A0">LAND INTELLIGENCE</text>
+  <text x="40" y="142" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="38" font-weight="750" letter-spacing="-1.1" fill="#F5F3EE">KSHEM</text>
+  <text x="42" y="181" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="17" fill="#B6BFCC">Spatial data. Clear decisions.</text>
+  <rect x="42" y="225" width="140" height="29" rx="14.5" fill="#C6A86A" fill-opacity=".12" stroke="#C6A86A" stroke-opacity=".45"/>
+  <text x="112" y="244" text-anchor="middle" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="10" font-weight="650" letter-spacing="1.6" fill="#C6A86A">GIS / POSTGIS</text>
+  <text x="42" y="304" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="11" letter-spacing="2.4" fill="#738091">SELECTED WORK / 2026</text>
+  <g transform="translate(598 18)" fill="none"><path d="M0 60Q65 4 133 51T260 43M-8 90Q65 34 133 81T268 73M-15 121Q65 65 133 112T275 104M-20 151Q65 95 133 142T282 134M-24 183Q65 127 133 174T290 166M-26 214Q65 158 133 205T296 197M-25 245Q65 189 133 236T302 228" stroke="#A7C4A0" stroke-opacity=".30" stroke-width="1.2"/><path d="M70 35L144 51L129 115L58 108Z M144 51L214 71L202 133L129 115Z M58 108L129 115L117 184L49 169Z M129 115L202 133L197 197L117 184Z" fill="#C6A86A" fill-opacity=".09" stroke="#C6A86A" stroke-opacity=".75" stroke-width="1.5"/><circle cx="144" cy="51" r="4" fill="#C6A86A"/><circle cx="129" cy="115" r="4" fill="#C6A86A"/><circle cx="117" cy="184" r="4" fill="#A7C4A0"/></g>
+  <path d="M25 315H935" stroke="#C6A86A" stroke-opacity=".16"/>
+</svg>
