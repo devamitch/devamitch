@@ -24,20 +24,24 @@
 
 ---
 
-## The snapshot
+## The studio, in real numbers
 
-I’m **Amit Chakraborty**, a Lead Architect and Senior Full-Stack Engineer based in Kolkata, India, working remotely with teams worldwide. I build mobile and web products, AI-enabled workflows, native performance systems, and the infrastructure behind shipped software.
+I’m **Amit Chakraborty** — Lead Architect and Senior Full-Stack Engineer behind **Amit Dev Labs**. I build mobile and web products, AI-enabled systems, computer-vision experiences, and product foundations that teams can inspect, adapt and ship.
 
 <table>
   <tr>
-    <td align="center" width="25%"><strong>98</strong><br/><sub>Repositories shown on GitHub<br/>24 Oct 2026 snapshot</sub></td>
-    <td align="center" width="25%"><strong>3,386</strong><br/><sub>GitHub contributions in the last year<br/>Profile snapshot</sub></td>
-    <td align="center" width="25%"><strong>948</strong><br/><sub>Private-repository contributions<br/>1–23 Oct 2026</sub></td>
-    <td align="center" width="25%"><strong>8+ years</strong><br/><sub>Production engineering<br/>18+ apps reported</sub></td>
+    <td align="center" width="33%"><strong>3,386</strong><br/><sub>GitHub contributions<br/>Last 12 months · profile snapshot</sub></td>
+    <td align="center" width="33%"><strong>139</strong><br/><sub>Repositories shown<br/>Your supplied GitHub profile snapshot</sub></td>
+    <td align="center" width="33%"><strong>19</strong><br/><sub>Additional Dev Labs repositories<br/>Curated index</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>23+</strong><br/><sub>Apps in production<br/>Portfolio-reported</sub></td>
+    <td align="center"><strong>50K</strong><br/><sub>Peak DAU · Vulcan Eleven<br/>Project case study</sub></td>
+    <td align="center"><strong>0 → 21</strong><br/><sub>Engineers hired / led<br/>Synapsis portfolio case study</sub></td>
   </tr>
 </table>
 
-*GitHub activity numbers are a dated profile snapshot, not a proxy for customers or revenue. The outcome metrics below link to their project case studies.*
+<sub>Accuracy note: GitHub labels 3,386 as contributions in the last year; it is not labeled as lifetime commits. The 139-repository figure comes from your supplied profile screenshot. Project outcome metrics are linked to portfolio case studies and are portfolio-reported rather than independent audits.</sub>
 
 ## Real project data
 
@@ -126,7 +130,7 @@ I’m **Amit Chakraborty**, a Lead Architect and Senior Full-Stack Engineer base
 ## Codebases & commercial options
 
 <div align="center">
-  <img src="./assets/codebase-market.svg" width="100%" alt="Codebase licensing, white-label customization, source acquisition, and engineering delivery"/>
+  <img src="./assets/codebase-market.svg" width="100%" alt="Amit Dev Labs — Codebase licensing, white-label customization, source review and engineering delivery"/>
 </div>
 
 **Interested in buying, licensing, white-labelling, or extending a codebase?** Start with the codebase catalogue below. Each repository has its own maturity, dependencies, and license status; I confirm those details before quoting or promising rights.
@@ -180,6 +184,21 @@ I’m **Amit Chakraborty**, a Lead Architect and Senior Full-Stack Engineer base
 | **BlinkQuest website** | Next.js 16 static marketing site, Tailwind CSS v4, structured metadata, sitemap and Cloudflare Workers deployment described in README | Product landing sites, documentation hubs, Cloudflare static deployment | [Website repo](https://github.com/devamitch/blinkquest-site) · [Live](https://blinkquest.devamit.co.in) |
 
 <p><sub>Live repository metadata changes over time. The links above go to the source/history; the exact branch, commit, build state and transferable scope must be confirmed for each deal.</sub></p>
+
+### Digital products & paid engineering
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%"><strong>Architecture Audit</strong><br/><br/><strong>$1,800</strong><br/><sub>Fixed fee · one codebase</sub><br/><br/><a href="https://amitchakraborty.dev/ai-llm-app-developer">Review the offer →</a></td>
+      <td align="center" width="33%"><strong>Delivery Sprint</strong><br/><br/><strong>$7,500</strong><br/><sub>2 weeks · one focused workstream</sub><br/><br/><a href="https://amitchakraborty.dev/ai-llm-app-developer">Review the offer →</a></td>
+      <td align="center" width="33%"><strong>Fractional Principal</strong><br/><br/><strong>$4,900 / month</strong><br/><sub>3-month minimum retainer</sub><br/><br/><a href="https://amitchakraborty.dev/ai-llm-app-developer">Review the offer →</a></td>
+    </tr>
+  </table>
+</div>
+
+<p align="center"><strong>Digital products in pre-order:</strong> <a href="https://amitchakraborty.dev/ai-llm-app-developer">React Native Architecture Playbook ($49)</a> · <a href="https://amitchakraborty.dev/ai-llm-app-developer">Production RAG Starter Kit ($79)</a></p>
+<sub>These are published engineering-service prices and pre-order listings from the portfolio, not prices for buying source-code IP. Confirm current terms, deliverables and availability on the service page.</sub>
 
 ### What a serious buyer should get before paying
 
@@ -296,6 +315,46 @@ A useful starting point for source review. Repository maturity varies: these inc
 
 <p align="center"><a href="https://github.com/devamitch?tab=repositories">Explore all repositories →</a></p>
 
+## Amit Dev Labs · 19 additional repositories
+
+*A wider workshop of health-tech modules, diagnostics interfaces, wellness experiences and starter foundations. Each project has its own maturity; these are presented as inspectable codebases, not as a claim that all 19 are production-ready or transferable under a clear license.*
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>Health & diagnostics</strong><br/><br/>
+      <a href="https://github.com/devamitch/diagnostic-station-web">Diagnostic Station Web</a><br/>
+      <a href="https://github.com/devamitch/diagnostic-station-desktop">Diagnostic Station Desktop</a><br/>
+      <a href="https://github.com/devamitch/diagnostic-pip-app">Diagnostic PiP</a><br/>
+      <a href="https://github.com/devamitch/eye-scan-mobile-app">Eye Scan Mobile</a><br/>
+      <a href="https://github.com/devamitch/eye-scan-pwa-app">Eye Scan PWA</a><br/>
+      <a href="https://github.com/devamitch/eye-scan-matrix-portal">Eye Scan Matrix Portal</a><br/>
+      <a href="https://github.com/devamitch/health-pulse-mobile-app">Health Pulse Mobile</a>
+    </td>
+    <td valign="top" width="33%">
+      <strong>Clinical & eye-care tools</strong><br/><br/>
+      <a href="https://github.com/devamitch/health-teleconsult-app">Health Teleconsult</a><br/>
+      <a href="https://github.com/devamitch/medical-web-scraper">Medical Web Scraper</a><br/>
+      <a href="https://github.com/devamitch/nanospeed-diagnostic-app">NanoSpeed Diagnostic</a><br/>
+      <a href="https://github.com/devamitch/pip-diagnostic-tool">PiP Diagnostic Tool</a><br/>
+      <a href="https://github.com/devamitch/rescue-eyes-desktop">Rescue Eyes Desktop</a><br/>
+      <a href="https://github.com/devamitch/doctor-clinic-portal">Doctor Clinic Portal</a>
+    </td>
+    <td valign="top" width="33%">
+      <strong>Wellness & foundations</strong><br/><br/>
+      <a href="https://github.com/devamitch/aura-wellness-landing">Aura Wellness Landing</a><br/>
+      <a href="https://github.com/devamitch/aura-wellness-mobile">Aura Wellness Mobile</a><br/>
+      <a href="https://github.com/devamitch/bloom-parents">Bloom Parents</a><br/>
+      <a href="https://github.com/devamitch/nexvault">NexVault · Expo starter</a><br/>
+      <a href="https://github.com/devamitch/project-my-teal">Project My Teal</a><br/>
+      <a href="https://github.com/devamitch/project-showcase">Project Showcase</a>
+    </td>
+  </tr>
+</table>
+
+<a href="DEV-LABS-COLLECTION.md"><img src="https://img.shields.io/badge/OPEN-19%20PROJECT%20DEV%20LABS-D6B36B?style=for-the-badge&labelColor=10141D" alt="Open the 19 project Dev Labs collection"/></a>
+<a href="mailto:amit@devamit.co.in?subject=Amit%20Dev%20Labs%20repository%20enquiry"><img src="https://img.shields.io/badge/ASK-ABOUT%20A%20CODEBASE-8BA8D8?style=for-the-badge&labelColor=10141D" alt="Ask about a codebase"/></a>
+
 ## Engineering toolkit
 
 <table>
@@ -340,6 +399,21 @@ A useful starting point for source review. Repository maturity varies: these inc
 
 - **MCA — Master of Computer Applications**, Techno Main Salt Lake, Kolkata · 2018–2021 · 8.61 CGPA
 - **BCA — Bachelor of Computer Applications**, The Heritage Academy, Kolkata · 2014–2017 · 7.3 DGPA
+
+## Buy, license, or build with Amit Dev Labs
+
+<table>
+  <tr>
+    <td valign="top" width="25%"><strong>01 / Inspect</strong><br/><sub>Start with the repo, commit history, license and known gaps.</sub></td>
+    <td valign="top" width="25%"><strong>02 / Scope</strong><br/><sub>Choose license review, white-label, source-acquisition discussion or custom delivery.</sub></td>
+    <td valign="top" width="25%"><strong>03 / Agree</strong><br/><sub>Document rights, inclusions, acceptance criteria, price and support.</sub></td>
+    <td valign="top" width="25%"><strong>04 / Handoff</strong><br/><sub>Code, configuration checklist, deployment notes and a technical walkthrough.</sub></td>
+  </tr>
+</table>
+
+**I don’t list made-up purchase prices.** Codebase value depends on ownership/IP, license, completeness, dependency costs, buyer rights, customizations, and support. I’ll quote after confirming which source and rights can actually be offered.
+
+<a href="mailto:amit@devamit.co.in?subject=Amit%20Dev%20Labs%20commercial%20enquiry&body=Repository%20or%20product%3A%0AOption%3A%20license%20review%20%2F%20white-label%20%2F%20acquisition%20discussion%20%2F%20technical%20audit%20%2F%20custom%20build%0AIntended%20use%3A%0ABudget%3A%0ATimeline%3A%0ASupport%20needed%3A%0A"><img src="https://img.shields.io/badge/START-A%20COMMERCIAL%20CONVERSATION-D6B36B?style=for-the-badge&labelColor=10141D" alt="Start a commercial conversation"/></a>
 
 ## Contact & next steps
 
