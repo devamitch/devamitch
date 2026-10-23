@@ -36,7 +36,7 @@
 - **What the project README describes:** 45+ typed node types, drag/connect workflow design, multi-model LLM workflows, live per-step execution visibility, and workflow export paths.
 - **Potential fit:** internal AI workflow builders, model orchestration prototypes, RAG frontends and no-code automation tools.
 - **Inspect:** [Frontend source](https://github.com/devamitch/aura-workflow-studio) · [Backend component](https://github.com/devamitch/aura-workflow-studio-backend) · [Live app](https://aurastudio.ai) · [Case study](https://amitchakraborty.dev/work/aura-studio) · [Latest commit history](https://github.com/devamitch/aura-workflow-studio/commits/main)
-- **Transaction status:** commercial conversation welcome; frontend and backend are separate repositories. GitHub did not expose a recognized license for the frontend, and no root LICENSE file was found during this check. Do not assume reuse rights. Confirm licensing/IP, environment needs, backend dependencies and current build before transfer.
+- **Transaction status:** commercial conversation welcome; frontend and backend are separate repositories. GitHub did not expose a recognized license for either repo in this check, and no root LICENSE file was found in either. Do not assume reuse rights. Confirm licensing/IP, environment needs, backend dependencies and current build before transfer.
 
 ## 3. Neev
 
@@ -45,7 +45,7 @@
 - **What the repository README describes:** mobile-first family coordination, household spaces, role hierarchy, local deterministic reminders and Firebase-backed synchronization.
 - **Potential fit:** private productivity tools, family-oriented applications and mobile apps with strict role scoping.
 - **Inspect:** [Repository](https://github.com/devamitch/neev) · [Product site](https://neev.devamit.co.in) · [Case study](https://amitchakraborty.dev/work/neev) · [Latest commit history](https://github.com/devamitch/neev/commits/main)
-- **Transaction status:** technical review first. Privacy-sensitive product scope and live data handling should be inspected before any commercial handoff. Do not assume exclusive rights from a public repo; confirm the actual license and IP boundaries.
+- **Transaction status:** technical review first. GitHub did not expose a recognized license for the repository in this check, and no root LICENSE file was found. Privacy-sensitive product scope and live data handling should be inspected before any commercial handoff. Do not assume reuse or exclusive rights from a public repo; confirm ownership and establish the actual license and IP boundaries in writing.
 
 ## 4. BlinkQuest website
 
